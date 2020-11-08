@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2018-01-30 09:55:47
+[georeference]
+nrows=81
+ncols=76
+xmin=429582.000729276
+ymin=3460969.0007351
+xmax=497982.000729276
+ymax=3533869.0007351
+projection=NA
+[data]
+datatype=FLT8S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=788.974092240767
+maxvalue=1998.46641357422
+nodatavalue=-1.7e+308
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=dem_p_e_90m
